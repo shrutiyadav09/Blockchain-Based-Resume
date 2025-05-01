@@ -30,6 +30,9 @@ To empower individuals with a trusted, tamper-proof resume system that ensures a
 
 ### Contract Address: CC745G2WSR4AKEEIKLKQ3JGDRIYXXYSRPMJUPRMOKP3I2NSJOBKUHZ2M
 
+![image](https://github.com/user-attachments/assets/bb50931e-fcf3-4d17-a826-e8f54d0d445d)
+
+
 ### 1. `add_entry(user, title, organization, description, year)`
 Stores a new resume entry for the user.
 
